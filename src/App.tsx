@@ -1,5 +1,4 @@
 import { Box, Flex, Grid, GridItem, Show } from '@chakra-ui/react';
-import { useState } from 'react';
 import GameGrid from './components/GameGrid';
 import GameHeading from './components/GameHeading';
 import GenreList from './components/GenreList';
