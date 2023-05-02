@@ -1,4 +1,4 @@
-import { Game } from '../hooks/useGames';
+import { Game } from '../entities/Game';
 import { Card, CardBody } from '@chakra-ui/card';
 import { Image } from '@chakra-ui/image';
 import { Heading } from '@chakra-ui/layout';
